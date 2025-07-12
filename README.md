@@ -3,14 +3,14 @@
 This repository contains viscosity data and fitting functions used to derive the power-law models reported in \[1].
 
 <div style="display: flex; gap: 10px;">
-  <img height="320" src="figs/fig_viscosities_a.png" alt="Viscosity A" />
-  <img height="320" src="figs/fig_viscosities_b.png" alt="Viscosity B" />
+  <img height="300" src="figs/fig_viscosities_a.png" alt="Viscosity A" />
+  <img height="300" src="figs/fig_viscosities_b.png" alt="Viscosity B" />
 </div>
 
 ## Viscosity measurements
 Viscosity measurements at physiological temperatures (37C degrees) for a wide range of hematocrit values were obtained from [2] using the  software <a href="https://automeris.io/">Web Plot Digitizer</a> software.
 
-<img height="389" src="wells_measures/range_17_to_70.png" alt="color picker" />
+<img height="350" src="wells_measures/range_17_to_70.png" alt="color picker" />
 
 ## Citing
 If you have used the provided codes for your research, or it has influenced your work, we ask that you include the following citations:
